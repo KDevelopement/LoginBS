@@ -1,0 +1,4 @@
+﻿RewriteEngine On
+RewriteRule ^login.html/?$ /login.php [NC,L]
+RewriteRule ^index.html/?$ /index.php [NC,L]
+RewriteRule ^sair.html/?$ /sair.php [NC,L]
